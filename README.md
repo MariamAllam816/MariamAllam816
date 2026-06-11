@@ -45,6 +45,7 @@ Tools       Git · Jupyter · Google Colab · VS Code
 | [chest-xray-pneumonia-detection](https://github.com/MariamAllam816/Advanced-Machine-learning-project) | ResNet18 fine-tuned on 5,863 X-ray images | Transfer learning pipeline |
 | [IEEE-hand-tracking-game](https://github.com/MariamAllam816/IEEE-HSB-Project---Hand-Tracking-Game) | Real-time CV game with MediaPipe | Gesture-based control |
 | [Momentum-AI](https://github.com/MariamAllam816/Momentum-AI) | Image classification with HuggingFace | Zero-shot inference |
+| [ASTEROINSIGHT ENGINE](https://www.spaceappschallenge.org/2025/find-a-team/asteroinsight-engine/?tab=project) | RAG powered search engine for nasa space dataset | Zero-shot inference |
 
 ---
 

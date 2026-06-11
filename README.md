@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariam19">LinkedIn</a> ·
-  <a href="mailto:mariammahmoudallam2005@gmail.com">Email</a> ·
-  <a href="https://mariamallam816.github.io">Website</a>
+  <a href="mailto:mariam.allam676@gmail.com">Email</a> ·
 </p>
 
 ---
